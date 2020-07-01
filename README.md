@@ -1,7 +1,7 @@
-# Python YellowPages Scraper
+# Python yellowpages.com Scraper
 
 ## Description & Implementation
-A simple scraper that returns data from https://www.yellowpages.com/ in dictionary format. The package exposes the YellowPages object which
+A simple scraper that returns data from www.yellowpages.com/ in dictionary format. The package exposes the YellowPages object which
 contains two methods. 
 
 The '''get_search_results''' method corresponds to doing a basic search on yellowpages and returns a list of results with basic information.
